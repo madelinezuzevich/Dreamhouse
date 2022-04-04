@@ -9,6 +9,30 @@ h1 {
   font-family: 'Times New Roman';
 }
 
+#Bedroom { color: white; position: relative; top: 200px; left: 200px;
+
+}
+
+#Bathroom { color: white; position: relative; top: 140px; left: 220px;
+
+}
+
+#LivingRoom { color: white; position: relative; top: 200px; left: 260px;
+
+}
+
+#Kitchen { color: white; position: relative; top: 140px; left: 290px;
+
+}
+
+
+a#Bedroom:visited {color: black;}
+a#Bathroom:visited {color: black;}
+a#LivingRoom:visited {color: black;}
+a#Kitchen:visited {color: black;} 
+
+#dreamhouse.png {position: relative; bottom: 800px; left: 75 px;}
+
 canvas {
   display: block;
 }

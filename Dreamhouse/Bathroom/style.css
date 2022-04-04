@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+#bathroom.ad.jpeg {position: relative; top: 100px; left: 75px;
+
+}
+
+
+#p { color: green; position: relative; top: 200px; left: 75px;
+
+}
+
+
+canvas {
+  display: block;
+}

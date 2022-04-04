@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+
+  text-align: left;
+  color: pink;
+  font-family: 'Times New Roman';
+
+}
+
+canvas {
+  display: block;
+}
